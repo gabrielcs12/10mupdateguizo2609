@@ -2,9 +2,9 @@ import requests
 import time
 import re
 
-TOKEN = "MTM5OTIxOTY4ODM1NzIzNjgzNw.GZ6qyc.Al4_eNHyZmgBo1LoIwLArIfb2pniRBao_m-IfM"
+TOKEN = "MTM5OTIxOTY4ODM1NzIzNjgzNw.GQY5nU.W-ry68eC7YvIAiUM7IrivDRfbSDFA9Jv1JMxqg"
 CANAL_ID = "1412641270274326528"
-WEBHOOK_URL = "https://autojoiner10mguizoepstein-c9dm.onrender.com/webhook"
+WEBHOOK_URL = "https://one0mupdateguizo2609.onrender.com/webhook"
 API_KEY = "key123"
 
 HEADERS = {
@@ -67,3 +67,4 @@ while True:
         print("Erro:", e)
 
     time.sleep(1)
+
