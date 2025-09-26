@@ -2,7 +2,7 @@ import requests
 import time
 import re
 
-TOKEN = "MTM5OTIxOTY4ODM1NzIzNjgzNw.GQY5nU.W-ry68eC7YvIAiUM7IrivDRfbSDFA9Jv1JMxqg"
+TOKEN = "MTM5OTIxOTY4ODM1NzIzNjgzNw.GTzzqo.b_VHQ_jJGWu3JFuhl0h7CIwlQZUkksEslaaxK0"
 CANAL_ID = "1412641270274326528"
 WEBHOOK_URL = "https://one0mupdateguizo2609.onrender.com/webhook"
 API_KEY = "key123"
@@ -67,4 +67,5 @@ while True:
         print("Erro:", e)
 
     time.sleep(1)
+
 
